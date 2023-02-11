@@ -7,6 +7,6 @@ if you have a big dataset you can search for the usenames you want to work with
 ```
 pip install -r requirements.txt
 ```
-## getrate random data
+## generate random data
 if you dont have a dataset you can gerate one with this script [data.py](data.py)
 
