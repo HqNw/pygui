@@ -6,7 +6,6 @@ import os
 import uuid
 
 
-
 root = ctk.CTk()
 root.title("Data Entry Form")
 root.geometry(f"{500}x{400}")
